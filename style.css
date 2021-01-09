@@ -1,0 +1,25 @@
+
+.row{
+    margin: 2px;
+}
+
+#grid{
+    background:#e0dce0;
+    height: auto;
+    border:2px solid white;
+    text-align: center;
+    padding-top:10px;
+    
+
+}
+
+.col-3,.col-12,.col-6,.col-4{
+    background-color: rgba(192,192,0.2);
+    border-radius: 4px;
+    border: 1px solid;
+  
+}
+
+p{
+    text-align: justify;
+}
